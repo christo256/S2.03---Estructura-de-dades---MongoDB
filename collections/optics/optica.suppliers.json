@@ -1,0 +1,16 @@
+[{
+  "_id": "supplier01",
+  "name": "Cul d'Ampolla",
+  "address": {
+    "street": "Moon Street",
+    "number": 10,
+    "floor": 2,
+    "door": "A",
+    "city": "Barcelona",
+    "postal_code": "08001",
+    "country": "Spain"
+  },
+  "phone": "933123456",
+  "fax": "933654321",
+  "tax_id": "B12345678"
+}]

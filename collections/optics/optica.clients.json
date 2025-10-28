@@ -1,0 +1,26 @@
+[{
+  "_id": "client01",
+  "name": "John Doe",
+  "address": {
+    "street": "Sunset Blvd",
+    "number": 15,
+    "floor": 1,
+    "door": "B",
+    "city": "Barcelona",
+    "postal_code": "08002",
+    "country": "Spain"
+  },
+  "phone": "933987654",
+  "email": "john.doe@example.com",
+  "registration_date": "2025-10-28T10:30:00Z",
+  "referred_by": null,
+  "purchases": [
+    {
+      "sale_id": "sale01",
+      "glass_id": "glass01",
+      "employee_id": "emp01",
+      "sale_date": "2025-10-28T10:30:00Z",
+      "price": 150
+    }
+  ]
+}]

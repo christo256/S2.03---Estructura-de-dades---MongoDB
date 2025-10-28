@@ -1,0 +1,8 @@
+[{
+  "_id": "emp01",
+  "name": "Laura Garcia",
+  "position": "Optician",
+  "phone": "933112233",
+  "email": "laura.garcia@example.com",
+  "hire_date": "2023-01-15"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": "glass01",
+  "brand": "Ray-Ban",
+  "lens_power": {
+    "left": -1.25,
+    "right": -1
+  },
+  "frame_type": "metal",
+  "frame_color": "black",
+  "lens_color": {
+    "left": "clear",
+    "right": "clear"
+  },
+  "price": 120.5,
+  "supplier_id": "supplier01",
+  "sales": [
+    {
+      "sale_id": "sale01",
+      "client_id": "client01",
+      "employee_id": "emp01",
+      "sale_date": "2025-10-28T10:30:00Z",
+      "price": 150
+    }
+  ]
+}]
