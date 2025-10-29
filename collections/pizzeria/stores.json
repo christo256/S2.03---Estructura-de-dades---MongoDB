@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "6901ec612087d848297a3c0c"
   },
-  "adress": "Main Street 98",
-  "postal code": "08017",
+  "address": "Main Street 98",
+  "postal_code": "08017",
   "city": "Barcelona",
   "province": "Barcelona"
 }]
