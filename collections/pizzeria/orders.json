@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6901fe972087d848297a3c42"
+  },
+  "customerId": "6901eaea2087d848297a3c08",
+  "storeId": "6901ec612087d848297a3c0c",
+  "orderDate": "2025-09-15T18:00:00Z",
+  "orderType": "delivery",
+  "totalPrice": 22,
+  "note": "Without onion",
+  "details": [
+    {
+      "productId": "6901fb792087d848297a3c2a",
+      "quantity": 2,
+      "unitPrice": 8
+    },
+    {
+      "productId": "6901fc262087d848297a3c3a",
+      "quantity": 1,
+      "unitPrice": 6
+    },
+    {
+      "productId": "6901fc342087d848297a3c3c",
+      "quantity": 2,
+      "unitPrice": 2.5
+    }
+  ],
+  "delivery": {
+    "deliveryDate": "2025-09-15T18:30:00Z",
+    "deliveryEmployeeId": "6901f7c82087d848297a3c14"
+  }
+}]

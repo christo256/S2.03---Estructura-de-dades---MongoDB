@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6901f7c82087d848297a3c14"
+  },
+  "first name": "Carlos",
+  "second name": " Álvarez",
+  "dni": "12345678A",
+  "phone": "698830966",
+  "role": "delivery",
+  "store_id": "6901ec612087d848297a3c0"
+}]

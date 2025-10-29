@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6901eaea2087d848297a3c08"
+  },
+  "first_name": "True",
+  "last_name": "Person",
+  "address": "Right Street 42b, 3-1",
+  "postal_code": "08001",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "phone": "62819321"
+}]

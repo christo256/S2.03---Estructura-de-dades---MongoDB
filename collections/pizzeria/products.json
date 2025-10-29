@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6901fb792087d848297a3c2a"
+  },
+  "name": "Pizza Pepperoni",
+  "description": "Thin dough, tomato, cheese",
+  "image": "pizza_pepperoni.png",
+  "price": 8,
+  "categoryId": "6901fa352087d848297a3c24"
+},
+{
+  "_id": {
+    "$oid": "6901fc262087d848297a3c3a"
+  },
+  "name": "Classic Burger",
+  "description": "Beef patty, lettuce, tomato, cheese",
+  "image": "url_to_image",
+  "price": 6,
+  "categoryId": "6901fa352087d848297a3c25"
+},
+{
+  "_id": {
+    "$oid": "6901fc342087d848297a3c3c"
+  },
+  "name": "Orange Juice",
+  "description": "Freshly squeezed orange juice",
+  "image": "url_to_image",
+  "price": 2.5,
+  "categoryId": "6901fa352087d848297a3c26"
+}]
