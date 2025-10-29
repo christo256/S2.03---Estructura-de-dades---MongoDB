@@ -66,8 +66,8 @@ Delivery orders also embed a subdocument with the delivery date and the responsi
 
 ## 💻 Tools Used
 - **MongoDB 6.0**
-- **Docker**  
-- **JavaScript / JSON** (for data modeling and structure)  
+- **Docker & Docker Compose**  
+- **JSON** (for data modeling and structure)  
 - **Moon Modeler** (for conceptual diagrams)  
 - **Git & GitHub** (for version control and submission)
 
